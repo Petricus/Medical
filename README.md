@@ -1,2 +1,2 @@
-# Medical Projects
-Work concerning medical data analysis and modeling for academic purposes.
+# Stroke Classification
+Work concerning medical data of stroke patients for analysis and modeling.
